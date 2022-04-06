@@ -1,0 +1,6 @@
+{
+  "parseHTTP": true,
+  "url": "https://auto.ria.com/uk/search/?indexName=auto,order_auto,newauto_search&body.id[0]=3&body.id[1]=4&categories.main.id=1&brand.id[0]=6&brand.id[1]=24&model.id[1]=2103&brand.id[2]=24&model.id[2]=239&brand.id[3]=9&brand.id[4]=28&country.import.usa.not=1&price.USD.gte=5000&price.USD.lte=10000&price.currency=1&abroad.not=0&custom.not=1&size=10&credit=0&confiscated=0&sellerType=2",
+  "useProxy": false,
+  "proxy": "http://46.160.117.53:8866/"
+}
